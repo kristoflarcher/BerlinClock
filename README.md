@@ -1,6 +1,7 @@
      Berlin Clock in swing
      
-     
+project katas ref:
+https://github.com/stephane-genicot/katas/blob/master/BerlinClock.md
      
 I used Observer-Subject design Pattern to implement the project
 
