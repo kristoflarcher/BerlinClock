@@ -35,7 +35,7 @@ import javax.swing.JPanel;
 			
 			 int width = 1600;
 		     int height = 900;
-			 setSize(1600, height);
+			 setSize(width, height);
 		     setResizable(false);
 		     
 		     TimeUIComponents = new ArrayList<Shape>();
